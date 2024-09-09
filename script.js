@@ -56,7 +56,7 @@ else{
 
  if(username.value == "admin" && password.value == "12345" ){
      // e.preventDefault()
-     window.location.replace('/home.html')    // validate(redirect)
+     window.location.replace('home.html')    // validate(redirect)
  }
 
          return valid;
